@@ -138,6 +138,25 @@
 
 ---
 
+## ✅ Customization of Ready-made Tools:
+
+### **Zoho One Customization**:
+- **Flexibility**: Zoho One offers a good level of **customization**, especially for CRM and attendance. 
+- **Custom Features**: You can integrate custom workflows and automations, but this is limited compared to Odoo. Higher-level customizations might require using **Zoho’s developer tools** (which can add cost).
+- **Limitations**: **Some limitations** in modifying UI/UX or creating new features. It’s not as customizable as Odoo but is **still quite flexible** for most needs.
+
+### **Freshworks Customization**:
+- **Flexibility**: Freshworks is designed to be **simple** and **user-friendly**, but it’s **less flexible** compared to Zoho One or Odoo when it comes to deep customization.  
+- **Custom Features**: You can add custom fields and workflows, but for more complex needs (like building custom modules), you will need **external help** or workarounds.
+- **Limitations**: Freshworks is more focused on **out-of-the-box** functionality, so deeper customization (like custom APIs, or changing the interface) is **limited**.
+
+### **Odoo Customization**:
+- **Flexibility**: Odoo shines when it comes to **customization**. You can **modify almost everything**, from core features to the UI.  
+- **Custom Features**: Odoo allows you to **build your own modules**, integrate third-party apps, and create new business logic with the **Odoo Studio** (or through development if you have technical expertise).
+- **Limitations**: **Technical skills** required for most customizations. **Advanced customizations** can be **costly** and require expert developers. Odoo is extremely flexible but comes with a **high learning curve**.
+
+---
+
 ## ✅ Recommended: **Zoho One**
 
 - **All-in-One**: Includes CRM, attendance, projects, and more.
@@ -178,4 +197,4 @@ For **small to medium-sized teams**, **Zoho One** offers the **best value** and 
 
 ---
 
-This updated version now includes **Odoo** in the suggested tools section. Let me know if you'd like to further tweak anything!
+This now includes a **Customization** section for each tool, which explains how flexible and customizable each solution is. Let me know if you need more changes!
